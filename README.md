@@ -137,3 +137,7 @@ customer-segmentation-sql/
 - Export results to CSV for visualization in Power BI or Tableau  
 - Use Python (Pandas) to generate charts from SQL output  
 - Extend dataset (products, regions, time) for deeper segmentation  
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)

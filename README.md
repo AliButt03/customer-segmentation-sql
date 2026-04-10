@@ -140,4 +140,4 @@ customer-segmentation-sql/
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
